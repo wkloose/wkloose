@@ -32,5 +32,5 @@
 
 > “Security is not a feature, it’s a mindset.”
 
-![Hisya's GitHub stats](https://github-readme-stats.vercel.app/api?username=hisyamalif&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hisyamalif&layout=compact&theme=github_dark)
+![Hisya's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkloose&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkloose&layout=compact&theme=github_dark)
