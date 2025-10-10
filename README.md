@@ -31,6 +31,7 @@
 [LinkedIn](LinkedIn: https://www.linkedin.com/in/muhammad-alif-hisyam-2a433632a/) • [Email](mailto:hisyamalif13@gmail.com)
 
 > “Security is not a feature, it’s a mindset.”
-
+---
 ![Hisya's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkloose&show_icons=true&theme=github_dark)
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkloose&layout=compact&theme=github_dark)
