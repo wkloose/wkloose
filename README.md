@@ -1,16 +1,34 @@
-## Hi there 👋
+### Backend Developer | Security & Cryptography Enthusiast | Informatics Student @ Universitas Brawijaya  
 
-<!--
-**wkloose/wkloose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔒 Passionate about building secure and efficient backend systems.  
+🧩 Exploring cryptography, cloud computing, and distributed systems.  
+💡 Always learning, experimenting, and growing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Current Focus
+- 🔹 Building small Go projects with authentication & API security  
+- 🔹 Exploring server-side security best practices  
+
+---
+
+### 🧩 Tech Stack
+**Languages:** Go, Python, Java, JavaScript  
+**Backend:** REST API, Authentication, JSON Handling  
+**Tools:** Git, Postman, VSCode  
+
+---
+
+### 📚 Projects & Repositories
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🔐 **go-secure-api** | REST API with JWT authentication | Go |
+| ☁️ **cloudify** | Small experiment deploying API with AWS EC2 | Go, AWS |
+
+---
+
+### 📫 Connect with me
+[LinkedIn](LinkedIn: https://www.linkedin.com/in/muhammad-alif-hisyam-2a433632a/) • [Email](mailto:hisyamalif13@gmail.com)
+
+> “Security is not a feature, it’s a mindset.”
+
