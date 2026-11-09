@@ -21,10 +21,9 @@ Fokus pada pengembangan arsitektur backend, pembuatan RESTful API, dan pengujian
 ### Proyek Pilihan & Dokumentasi
 | Proyek / Repositori | Deskripsi Singkat | Teknologi / Tools |
 | :--- | :--- | :--- |
-| [BackKosHub](https://github.com/TeamPemweb/backkoshub) | RESTful API manajemen kos dengan autentikasi JWT dan arsitektur database relasional. 
-| Go, Gin, PostgreSQL, GORM |
+| [BackKosHub](https://github.com/TeamPemweb/backkoshub) | RESTful API manajemen kos dengan autentikasi JWT dan arsitektur database relasional.| Go, Gin, PostgreSQL, GORM |
 | [Dokumentasi API BackKosHub](https://documenter.getpostman.com/view/42711575/2sBXwmQt7J) | Koleksi pengujian dan dokumentasi interaktif Postman untuk validasi 15+ endpoint dan header autentikasi. | Postman Documenter |
-| BRONE UB Testing | Perancangan skenario UAT (Normal & Exception flow) dan pengujian usability menggunakan SUS (Skor rata-rata: 74.0 / Kategori Good). | UAT, Test Matrix, SUS|
+| [BRONE UB Testing](https://drive.google.com/file/d/1AaTXb1VKwoBZ90tQHnDcGqytoK4XuyyP/view?usp=drive_link) | Perancangan skenario UAT (Normal & Exception flow) dan pengujian usability menggunakan SUS (Skor rata-rata: 74.0 / Kategori Good). | UAT, Test Matrix, SUS|
 | [CS2 Skin Price Prediction](https://github.com/wkloose/CS2SkinPricePrediction) | Pipeline otomatis pengumpulan data harga pasar dan pemodelan prediksi deret waktu. | Python, Machine Learning|
 | [Find-a-Teammate](https://github.com/TeamPemweb/find-a-teammate) | Platform kolaborasi berbasis web untuk pencarian rekan tim proyek akademik dan perlombaan. | PHP, Laravel, Blade, MySQL|
 
